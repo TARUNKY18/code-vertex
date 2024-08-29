@@ -4,7 +4,7 @@ import AdminDashboard from './AdminDashboard'
 function StudentDetails() {
     return (
         <>
-            <div className='h-screen flex text-white bg-gradient-to-b from-black via-blue-950 to-gray-900'>
+            <div className='h-screen flex text-white bg-gray-900'>
                 <AdminDashboard />
 
                 <main className='ml-72 w-[100%]'>
